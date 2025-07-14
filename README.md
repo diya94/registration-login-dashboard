@@ -31,7 +31,7 @@ this is fully functional mini web application with Registration, Login, and Dash
 ### Folder-Structure
 registration-login-dashboard/
 │
-├── index.html (register.html)
+├── index.html
 ├── login.html
 ├── dashboard.html
 │
@@ -43,11 +43,12 @@ registration-login-dashboard/
 ├── login.js
 ├── dashboard.js
 │
-|__ loginbg.jpg
-|__background.jpg
-|__dashbg.jpg
-|
+├── loginbg.jpg
+├── background.jpg
+├── dashbg.jpg
+│
 └── README.md
+
 
 ### ✍️ Author
 Developed by **Diya Karmakar**  
