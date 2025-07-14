@@ -89,6 +89,4 @@ Project submitted for **MERN Stack Internship – Week 1 Task**,
 ## 📦 GitHub Repository
 
 [GitHub Repository](https://github.com/diya94/registration-webpage-.git)
-```
-
-Let me know if you want this exported as a `.md` file or added directly to your GitHub repo.
+.
