@@ -27,7 +27,7 @@ features implemented:
 
 ## 🚀 GitHub Pages live hosted link
 
-🔗 [GitHub Pages Link](https://diya94.github.io/registration-webpage-/)
+🔗 [GitHub Pages Link](https://diya94.github.io/registration-login-dashboard/)
 
 ---
 
@@ -65,7 +65,7 @@ registration-webpage-/
 ## 🛠️ How to Run
 
 1. Clone the repo or open directly in browser.  
-2. Start with [index.html](https://diya94.github.io/registration-webpage-/)  
+2. Start with [index.html](https://diya94.github.io/registration-login-dashboard/)  
 3. Register → Login → Access Dashboard  
 
 > **Note**: This is a frontend-only project. Data is stored using `localStorage`.
